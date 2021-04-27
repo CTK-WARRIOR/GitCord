@@ -1,5 +1,5 @@
 # GitCord
-<p align="center"><img align="center" style="width:1px" src="./.github/logo.png"/></p><br/>
+<p align="center"><img align="center" style="width:1px" src="https://cdn.discordapp.com/attachments/675669552796925987/836722446693826610/logo.png"/></p><br/>
 <p align="center">
   <a href="https://withwin.in/dbd"><img src="https://badgen.net/discord/online-members/7SFVH6yUuE" alt="Discord"></a>
  </p>
