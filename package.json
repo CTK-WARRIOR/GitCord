@@ -1,5 +1,5 @@
 {
-  "name": "github-notifier",
+  "name": "gitcord",
   "version": "1.0.0",
   "description": "GitCord allows you to send the github feeds at your discord server without having any issue.",
   "main": "src/index.js",
