@@ -6,7 +6,7 @@ module.exports = (json, {color="#161b22"}={}) => {
 			icon_url: json.actor.avatar_url
 		},
     title: `[${json.repo.name}] New star added`,
-    url: json.repo.url,
+    url: `https://github.com/${json.repo.name}`,
     footer: { text: "Github"},
     timestamp: new Date()
   }
