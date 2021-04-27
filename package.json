@@ -6,6 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CTK-WARRIOR/GitCord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CTK-WARRIOR/GitCord/issues"
+  },
+  "keywords": [
+   "Github",
+   "github-notifier",
+   "githubfeed",
+   "GitCord",
+   "discord-github"
+  ],
   "author": "ctk",
   "license": "ISC",
   "dependencies": {
