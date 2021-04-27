@@ -1,0 +1,9 @@
+{
+  "TimeLimit": 60000,
+  "Headers": {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+    "content-type": "application/json; charset=utf-8",
+    "accept-language": "en-US",
+    "accept-encoding": "gzip"
+  }
+}
