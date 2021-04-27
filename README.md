@@ -52,7 +52,7 @@ github.on('newEvent', (json) => {
 const Github = require("gitcord")
 const Discord = require("discord.js")
 const client = new Discord.Client();
-const github = new Github("animeforreal", { token: "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", gitall: true })
+const github = new Github("CTK-WARRIOR", { token: "Your Super Cool Github Token", gitall: true })
 github.setup()
 
 client.on("ready", () => {
